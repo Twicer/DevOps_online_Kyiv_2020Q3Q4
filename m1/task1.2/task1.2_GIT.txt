@@ -1,0 +1,16 @@
+d456331 HEAD@{0}: merge develop: Fast-forward
+face44c HEAD@{1}: checkout: moving from develop to master
+d456331 HEAD@{2}: commit (merge): Merge branch 'styles' into develop
+a73f8e8 HEAD@{3}: merge images: Fast-forward
+c9bcbff HEAD@{4}: checkout: moving from styles to develop
+88391ff HEAD@{5}: commit: changed index.html; added styles
+522a551 HEAD@{6}: commit: added styles
+c9bcbff HEAD@{7}: checkout: moving from develop to styles
+c9bcbff HEAD@{8}: checkout: moving from images to develop
+a73f8e8 HEAD@{9}: commit: changed index.html
+b14f5c7 HEAD@{10}: commit: added images
+c9bcbff HEAD@{11}: checkout: moving from develop to images
+c9bcbff HEAD@{12}: commit: empty index.html
+face44c HEAD@{13}: checkout: moving from master to develop
+face44c HEAD@{14}: commit: init commit
+b6d9164 HEAD@{15}: clone: from https://github.com/fongakahate/DevOps_online_Kyiv_2020Q3Q4.git
