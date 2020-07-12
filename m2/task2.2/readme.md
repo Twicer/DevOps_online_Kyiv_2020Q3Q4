@@ -1,6 +1,7 @@
 ## Task 2.2
 
 **Group and snapshots:**
+
 ![group and snapshots](./screens/snapshots.png)
 
 **USB ports passthrough:**
@@ -19,6 +20,7 @@
 ![vbox cli](./screens/vboxcli.png)
 
 **Vagrant:**
+
 ![vagrant](./screens/vagrant.png)
 ![vagrant](./screens/ssh.png)
 ![vagrant](./screens/haltdestroy.png)
