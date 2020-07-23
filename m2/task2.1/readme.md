@@ -28,4 +28,4 @@ For MacOS users, VMware has developed Fusion that is similar to their Workstatio
 It only supports Windows 7 as a host machine and Windows OS on guest machines. This includes multiple versions of Windows 7 and Vista, as well as XP SP3. Virtual PC is completely free.
 
 ## Parallels Desktop
-A competitor to VMware Fusion. It is primarily intended for MacOS users and offers plenty of features depending on the version you purchase. Some of the features are network conditioning, integration with Chef/Ohai/Docker/Vagrant, support for up to 128GB per VM, etc.
+A competitor to VMware Fusion. It is primarily intended for MacOS users and offers plenty of features depending on the version you purchase. Some of the features are network conditioning, integration with Chef/Ohai/Docker/Vagrant, support for up to 128GB per VM, etc. 
