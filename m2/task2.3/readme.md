@@ -14,4 +14,4 @@
 ![wp](./screens/2.3_3.png)
 
 **S3 bucket CLI:***
-![s3cli](./screens/2.3_4.png)
+![s3cli](./screens/2.3_4.png) 
