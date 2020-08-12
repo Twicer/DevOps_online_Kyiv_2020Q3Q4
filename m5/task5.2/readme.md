@@ -1,4 +1,5 @@
-##Task 5.2
+## Task 5.2
+
 **Output of `ls` command with different flags:**
 ![ls1](./screens/ls1.png)
 ![ls2](./screens/ls2.png)
