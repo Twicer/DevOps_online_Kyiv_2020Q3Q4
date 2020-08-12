@@ -31,3 +31,5 @@ As seen on screenshot above we created a hard link "test2.txt" to "test1.txt". A
 `dmesg | grep sda` - print or control the kernel ring buffer filtered by 'sda'
 
 `sudo grep -R -e` - '-R' Read all files under each directory recursively, follow all symbolic links. '-e' pattern. So we search all "root" entries in '/etc' directory 
+
+![root_entries](./screens/root_entries.png)
