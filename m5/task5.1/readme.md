@@ -4,9 +4,11 @@
 ![printenv](./screens/printenv.png)
 
 **Content of `etc/profile`:**
+
 ![profile](./screens/profile.png)
 
 **Content of `~/.bash_profile`:**
+
 ![bash_profile](./screens/bash_profile.png)
 
 **Output of `echo $HISTFILE $HISTSIZE $HISTFILESIZE`:**
