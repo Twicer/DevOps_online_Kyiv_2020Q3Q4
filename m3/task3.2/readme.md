@@ -23,4 +23,4 @@ Cheking if all tables are present.
 
 ![4](./screens/4.png)
 
-Connect, create empy DB, restore local bacupd, make shure that backup transfered correctly and all tables and data are present.
+Connect, create empy DB, restore local bacupd, make shure that backup transfered correctly and all tables and data are present. 
