@@ -41,4 +41,4 @@ As we can see user 'admin' has ALL PRIVILEGES on all DBs and tables, and user 'u
 
 ![6](./screens/6.png)
 
-![7](./screens/7.png)
+![7](./screens/7.png) 
